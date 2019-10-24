@@ -1,0 +1,42 @@
+.cor-alinamento{
+	font-family: Arial;
+	background-color: #eb2f06;
+	color: #C4E538;
+	padding: 4px;
+}
+
+.dinheiro-trabalho{
+	font-family: Arial;
+	text-align: justify;
+	color: #FFFF00;
+	background-color: green;
+	padding: 4px;
+}
+
+.dinheiro-trabalho-alinhamento{
+	font-family: Arial;
+	text-align: center;
+	color: #FFFF00;
+	background-color: green;
+	padding: 4px;
+}
+
+#borda{
+	border-color: #a122f5;
+	border-style: groove;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 4px;
+}
+
+#titulo{
+	font-family: Arial;
+	font-size: 30px;
+	background-color: #BCD2EE;
+	color: #2c2c54;
+	padding: 4px;
+}
+
+#cor-do-fundo{
+	background-color: #00a8ff;
+}
